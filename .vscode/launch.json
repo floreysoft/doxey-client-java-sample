@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.floreysoft.doxeyclientjavasample.Main",
+            "projectName": "ultradox-api-client-java-sample"
+        }
+    ]
+}
